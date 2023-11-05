@@ -11,6 +11,8 @@ An Script to host on railway.app ~
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/RXeiAo?referralCode=GTp-zc)
 
+https://heroku.com/deploy?template=https://github.com/caritemanon/manggang
+
 
 ## Through Railway CLI
 ```sh
